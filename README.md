@@ -37,3 +37,10 @@ The following steps were performed to prepare the data for analysis:
 The final insights and visualizations were compiled into a Tableau dashboard for interactive exploration.
 
 Link to Tableau Dashboard: [Tableau Dashboard](https://public.tableau.com/app/profile/nonso.ezeoma/viz/PreparingforInfluenzaSeason2018_16957923233980/PreparingforInfluenzaseason2018)
+
+## Project Structure
+
+- /data                # Contains all raw and cleaned data files.
+- /visualizations      # Folder for Excel charts and Tableau visual outputs.
+- README.md            # Overview of the project and instructions.
+
