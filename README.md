@@ -15,9 +15,9 @@ Source: CDC
 Source: US Census Bureau
 
 ## Research Questions
-When does influenza season start and end in each state?
-How do vulnerable populations impact staffing needs?
-Which states should be prioritized based on the severity of influenza?
+- When does influenza season start and end in each state?
+- How do vulnerable populations impact staffing needs?
+- Which states should be prioritized based on the severity of influenza?
 
 ## Cleaning Procedures
 The following steps were performed to prepare the data for analysis:
