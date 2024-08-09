@@ -1,4 +1,4 @@
-# influenza-season-analysis-excel-tableau
+# Influenza-season-analysis-excel-tableau
 # Project Overview
 This project aims to assist a medical staffing agency in preparing for the upcoming influenza season by analyzing trends in influenza cases and deaths. The objective is to create a staffing plan that ensures adequate coverage across the United States, minimizing both understaffing and overstaffing situations.
 
@@ -10,11 +10,9 @@ The analysis uses data from various sources, which can be downloaded directly:
 
 1. **[Influenza Deaths by Geography, Time, Age, and Gender](https://view.officeapps.live.com/op/view.aspx?src=https%3A%2F%2Fcoach-courses-us.s3.amazonaws.com%2Fpublic%2Fcourses%2Fda_program%2FCDC_Influenza_Deaths_edited.xlsx&wdOrigin=BROWSELINK)**
 Source: CDC
-Download Data Set
 
 2. **[Population Data by Geography](https://coach-courses-us.s3.amazonaws.com/public/courses/data-immersion/A1-A2_Influenza_Project/Census_Population_transformed_202101.csv)** 
 Source: US Census Bureau
-Download Data Set
 
 ## Research Questions
 When does influenza season start and end in each state?
