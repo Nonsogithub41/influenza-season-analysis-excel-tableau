@@ -12,36 +12,30 @@ The analysis uses data from various sources, which can be downloaded directly:
 Source: CDC
 Download Data Set
 
-2. Population Data by Geography
+2. **[Population Data by Geography](https://coach-courses-us.s3.amazonaws.com/public/courses/data-immersion/A1-A2_Influenza_Project/Census_Population_transformed_202101.csv)** 
 Source: US Census Bureau
 Download Data Set
 
-3. Counts of Influenza Laboratory Test Results by State
-Source: CDC Fluview
-Download Influenza Visits Data Set
-Download Lab Tests Data Set
-
-4. Survey of Flu Shot Rates in Children
-Source: CDC
-Download Data Set
-
-Research Questions
+## Research Questions
 When does influenza season start and end in each state?
 How do vulnerable populations impact staffing needs?
 Which states should be prioritized based on the severity of influenza?
-Cleaning Procedures
+
+## Cleaning Procedures
 The following steps were performed to prepare the data for analysis:
 
-Handling Missing Data: Addressed missing values through imputation where necessary.
-Standardizing Formats: Ensured consistency in date and numeric formats.
-Removing Duplicates: Identified and removed duplicate records.
-Data Transformation: Integrated data from multiple sources into a cohesive dataset.
-Analysis and Insights
-Temporal Analysis: Identified the start and end of influenza season in each state using Excel.
-Vulnerable Populations: Assessed the impact of vulnerable groups on staffing needs using Excel.
-Visualization: Used Tableau to create interactive visualizations, including time series, heat maps, and correlation charts.
-Correlation Analysis: Investigated the relationship between influenza rates and staffing requirements.
-Tableau Dashboard
+1. Handling Missing Data: Addressed missing values through imputation where necessary.
+2. Standardizing Formats: Ensured consistency in date and numeric formats.
+3. Removing Duplicates: Identified and removed duplicate records.
+4. Data Transformation: Integrated data from multiple sources into a cohesive dataset.
+   
+## Analysis and Insights
+- Temporal Analysis: Identified the start and end of influenza season in each state using Excel.
+- Vulnerable Populations: Assessed the impact of vulnerable groups on staffing needs using Excel.
+- Visualization: Used Tableau to create interactive visualizations, including time series, heat maps, and correlation charts.
+- Correlation Analysis: Investigated the relationship between influenza rates and staffing requirements.
+  
+## Tableau Dashboard
 The final insights and visualizations were compiled into a Tableau dashboard for interactive exploration.
 
-Link to Tableau Dashboard: Tableau Dashboard (Replace with the actual link)
+Link to Tableau Dashboard: [Tableau Dashboard](https://public.tableau.com/app/profile/nonso.ezeoma/viz/PreparingforInfluenzaSeason2018_16957923233980/PreparingforInfluenzaseason2018)
